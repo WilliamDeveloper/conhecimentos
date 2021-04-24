@@ -69,5 +69,5 @@ $(document).ready(function () {
         }
 
     }
-    montarPagina(assuntos)
+    montarPagina(assuntos);
 })
