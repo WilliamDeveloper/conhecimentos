@@ -59,7 +59,7 @@ var assuntos = [
             {url:'https://code.visualstudio.com/', descricao:'visualstudio code'},
             {url:'https://insomnia.rest/download', descricao:'testar request rest - insommia'},
             {url:'https://www.postman.com/', descricao:'testar request rest - postman'},
-            {url:'https://www.beekeeperstudio.io/', descricao:'testar sqllite'},
+            {url:'https://www.beekeeperstudio.io/', descricao:'testar sqllite.'},
 
         ]
     },
