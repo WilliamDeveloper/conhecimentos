@@ -28,20 +28,30 @@ var assuntos = [
         ]
     },
     {
-        titulo: 'Tools Uteis',
+        titulo: 'Tools Uteis - geral',
         listaLinks:[
             {url:'https://www.screentogif.com/', descricao:'Criar Gif'},
             {url:'https://app.prntscr.com/en/index.html', descricao:'Printscreen'},
-            {url:'https://laragon.org/', descricao:'server laragon'},
-            {url:'https://www.apachefriends.org/pt_br/index.html', descricao:'server xampp'},
-            {url:'https://usbwebserver.yura.mk.ua/', descricao:'server usbwebserver 8'},
             {url:'https://anydesk.com/pt/downloads/windows', descricao:'acesso remoto - anydesk'},
             {url:'https://www.teamviewer.com/pt-br/', descricao:'acesso remoto - teamviewer'},
             {url:'https://notepad-plus-plus.org/downloads/', descricao:'editor texto - notepad++'},
             {url:'https://formatfactory.br.uptodown.com/windows', descricao:'conversor foto/video - format factory'},
+
+        ]
+    },
+    {
+        titulo: 'Tools Uteis - dev',
+        listaLinks:[
+            {url:'https://laragon.org/', descricao:'server laragon'},
+            {url:'https://www.apachefriends.org/pt_br/index.html', descricao:'server xampp'},
+            {url:'https://usbwebserver.yura.mk.ua/', descricao:'server usbwebserver 8'},
+            {url:'https://notepad-plus-plus.org/downloads/', descricao:'editor texto - notepad++'},
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./', descricao:'firefox  - portable'},
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2066.0.5/', descricao:'firefox 66.0.5 - portable'},
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2036.0/', descricao:'firefox 36.0 - portable'},
+            {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2036.0/', descricao:'firefox 36.0 - portable'},
+            {url:'https://www.soapui.org/downloads/soapui/', descricao:'soapui'},
+            {url:'https://mobaxterm.mobatek.net/', descricao:'mobaxterm'},
         ]
     },
     {
