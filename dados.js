@@ -34,6 +34,8 @@ var assuntos = [
             {url:'https://laragon.org/', descricao:'server laragon'},
             {url:'https://www.apachefriends.org/pt_br/index.html', descricao:'server xampp'},
             {url:'https://usbwebserver.yura.mk.ua/', descricao:'server usbwebserver 8'},
+            {url:'https://anydesk.com/pt/downloads/windows', descricao:'acesso remoto - anydesk'},
+            {url:'https://www.teamviewer.com/pt-br/', descricao:'acesso remoto - teamviewer'},
         ]
     },
     {
