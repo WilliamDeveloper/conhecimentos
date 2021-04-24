@@ -138,4 +138,16 @@ var assuntos = [
             {url:'https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r', descricao:'Curso de Banco de Dados MySQL'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - HTML para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o', descricao:'Curso de HTML5 Completo e GRÁTIS'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGbnuBYtOnkIIwdYKYRuhYt', descricao:'Carreira Web | Sites Profissionais'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGKl3iPEyEWpFoYkMUxWW5O', descricao:'Curso de HTML5'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78', descricao:'HTML5 & CSS3 na Prática'},
+            {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:''},
+            {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:''},
+            {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:''},
+        ]
+    },
 ]
