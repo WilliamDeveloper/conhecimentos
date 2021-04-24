@@ -155,4 +155,16 @@ var assuntos = [
             {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG', descricao:'Curso de CSS3'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - Design Responsivo para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVFi6oHo_K4IYDcwCU5-f1x5', descricao:'Design Responsivo'},
+        ]
+    },
+    {
+        titulo: 'Youtube Playlist - Android para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/playlist?list=PLesCEcYj003QaHBxk_6NC6JmQSCJZ_YjX', descricao:'Android - Cadastro de Clientes'},
+        ]
+    },
 ]
