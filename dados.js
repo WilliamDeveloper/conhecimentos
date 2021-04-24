@@ -52,6 +52,7 @@ var assuntos = [
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2036.0/', descricao:'firefox 36.0 - portable'},
             {url:'https://www.soapui.org/downloads/soapui/', descricao:'soapui'},
             {url:'https://mobaxterm.mobatek.net/', descricao:'mobaxterm'},
+            {url:'https://code.visualstudio.com/', descricao:'visualstudio code'},
         ]
     },
     {
