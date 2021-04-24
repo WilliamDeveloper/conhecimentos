@@ -2,9 +2,7 @@ var assuntos = [
     {
         titulo: 'Google Uteis',
         listaLinks:[
-            {url:'#', descricao:'a'},
-            {url:'#', descricao:'b'},
-            {url:'#', descricao:'c'},
+            {url:'https://myaccount.google.com/lesssecureapps', descricao:'ativar seguranca de apps na conta google'},
         ]
     },
     {
