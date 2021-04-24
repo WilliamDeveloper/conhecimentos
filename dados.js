@@ -39,6 +39,7 @@ var assuntos = [
             {url:'https://www.teamviewer.com/pt-br/', descricao:'acesso remoto - teamviewer'},
             {url:'https://notepad-plus-plus.org/downloads/', descricao:'editor texto - notepad++'},
             {url:'https://formatfactory.br.uptodown.com/windows', descricao:'conversor foto/video - format factory'},
+            {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./', descricao:'firefox  - portable'},
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2066.0.5/', descricao:'firefox 66.0.5 - portable'},
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2036.0/', descricao:'firefox 36.0 - portable'},
         ]
