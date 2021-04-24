@@ -48,7 +48,11 @@ $(document).ready(function () {
             let htmlString = ''
             let sessao = parametros[i]
             let titulo = sessao.titulo
-            let templateH2 = `<h2>${titulo}</h2>`
+            let templateH2 = `
+                <hr>
+                <h2>${titulo}</h2>
+                <hr>
+            `
             htmlString += templateH2
 
             for (let j = 0; j < sessao.listaLinks.length; j++) {
