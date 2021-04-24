@@ -98,4 +98,11 @@ var assuntos = [
             {url:'Programación orientada a objetos con PYTHON (completo) 2020', descricao:'https://www.youtube.com/watch?v=AqjTfmPitTQ&list=PLg9145ptuAigw5pV_DRznXdOsX19dorDs'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - javascript para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1', descricao:'Curso Grátis de JavaScript e ECMAScript para Iniciantes'},
+            {url:'https://www.youtube.com/watch?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR', descricao:'Curso de Javascript'},
+        ]
+    },
 ]
