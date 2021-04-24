@@ -36,6 +36,9 @@ var assuntos = [
             {url:'https://www.teamviewer.com/pt-br/', descricao:'acesso remoto - teamviewer'},
             {url:'https://notepad-plus-plus.org/downloads/', descricao:'editor texto - notepad++'},
             {url:'https://formatfactory.br.uptodown.com/windows', descricao:'conversor foto/video - format factory'},
+            {url:'https://obsproject.com/pt-br/download', descricao:'gravar video - obs studio'},
+            {url:'https://www.videolan.org/vlc/index.pt_BR.html', descricao:'player de video'},
+            {url:'https://www.balena.io/etcher/', descricao:'criar pendrive bootavel'},
 
         ]
     },
@@ -51,10 +54,12 @@ var assuntos = [
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2036.0/', descricao:'firefox 36.0 - portable'},
             {url:'https://sourceforge.net/projects/portableapps/files/Mozilla%20Firefox%2C%20Portable%20Ed./Mozilla%20Firefox%2C%20Portable%20Edition%2036.0/', descricao:'firefox 36.0 - portable'},
             {url:'https://www.soapui.org/downloads/soapui/', descricao:'soapui'},
-            {url:'https://mobaxterm.mobatek.net/', descricao:'mobaxterm'},
+            {url:'https://mobaxterm.mobatek.net/', descricao:'mobaxterm - ftp - ssh'},
             {url:'https://code.visualstudio.com/', descricao:'visualstudio code'},
-            {url:'https://obsproject.com/pt-br/download', descricao:'gravar video - obs studio'},
-            {url:'https://www.videolan.org/vlc/index.pt_BR.html', descricao:'player de video'},
+            {url:'https://insomnia.rest/download', descricao:'testar request rest - insommia'},
+            {url:'https://www.postman.com/', descricao:'testar request rest - postman'},
+            {url:'https://www.beekeeperstudio.io/', descricao:'testar sqllite'},
+            {url:'https://filezilla-project.org/', descricao:'ftp - acesso'},
         ]
     },
     {
