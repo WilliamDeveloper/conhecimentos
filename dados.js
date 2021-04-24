@@ -38,6 +38,7 @@ var assuntos = [
             {url:'https://anydesk.com/pt/downloads/windows', descricao:'acesso remoto - anydesk'},
             {url:'https://www.teamviewer.com/pt-br/', descricao:'acesso remoto - teamviewer'},
             {url:'https://notepad-plus-plus.org/downloads/', descricao:'editor texto - notepad++'},
+            {url:'https://formatfactory.br.uptodown.com/windows', descricao:'conversor foto/video - format factory'},
         ]
     },
     {
