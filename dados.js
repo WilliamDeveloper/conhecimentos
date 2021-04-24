@@ -116,4 +116,15 @@ var assuntos = [
             {url:'https://www.youtube.com/watch?v=q84ncDh4ln0&list=PLesCEcYj003SbwnNhQ9eyF7IjPlEK0uVg', descricao:'JAVA 8 - Lambda'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - PHP para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/watch?v=F7KzJ7e6EAc&list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k', descricao:'Curso de PHP para Iniciantes'},
+            {url:'https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x', descricao:'Curso de POO PHP (Programação Orientada a Objetos)'},
+            {url:'https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd', descricao:'Curso de PHP'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq', descricao:'Curso de PHP 7'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I', descricao:'Curso de PHP Orientado a Objetos'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVHRW8ho-pBjMUeyeCr99hfh', descricao:'Curso de PHP MVC'},
+        ]
+    },
 ]
