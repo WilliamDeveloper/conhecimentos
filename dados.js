@@ -145,9 +145,6 @@ var assuntos = [
             {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGbnuBYtOnkIIwdYKYRuhYt', descricao:'Carreira Web | Sites Profissionais'},
             {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGKl3iPEyEWpFoYkMUxWW5O', descricao:'Curso de HTML5'},
             {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78', descricao:'HTML5 & CSS3 na Prática'},
-            {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:''},
-            {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:''},
-            {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:''},
         ]
     },
 ]
