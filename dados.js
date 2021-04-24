@@ -39,7 +39,6 @@ var assuntos = [
             {url:'https://www.skyhook.com',  descricao:'localizacao onde fica a rede wifi no mundo'   },
             {url:'https://wigle.net', descricao:'localizacao onde fica a rede wifi no mundo opensource'},
             {url:'https://www.google.com.br/maps/@-29.9886319,-51.1062833,15z', descricao:'cordenadas google'},
-            {url:'https://www.whois.com/whois/177.18.158.93', descricao:'informacoes sobre o dominio ou ip'},
             {url:'javascript:navigator.geolocation.getCurrentPosition(function(){});', descricao:'script geolocation pelo navegador com javascript'},
         ]
     },
