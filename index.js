@@ -10,7 +10,7 @@ $(document).ready(function () {
 
     var html="<li>text and html</li><br>";
     var e=htmlToElement(html);
-    console.log(e)
+    console.log(e);
 
     function montarPagina(parametros) {
         let elementoPrincipal = document.querySelector('.principal')
