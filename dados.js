@@ -133,6 +133,9 @@ var assuntos = [
             {url:'https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RILJ_7WZz_pV6eDfMxmjlJ', descricao:'Funções Oracle ( Aprenda PL/SQL)'},
             {url:'https://www.youtube.com/playlist?list=PL7E27A95750BB1C8B', descricao:'PLSQL Basico'},
             {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:'Curso Oracle'},
+            {url:'https://www.youtube.com/playlist?list=PLS38CylLB1errojsQKp7urhgqTvqIfrb8', descricao:'Programación en PL/SQL'},
+            {url:'https://www.youtube.com/playlist?list=PL5xzlIDQ32_dTCe6wemSqXGHs99GV4jaY', descricao:'Curso de programacion PL / SQL'},
+            {url:'https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r', descricao:'Curso de Banco de Dados MySQL'},
         ]
     },
 ]
