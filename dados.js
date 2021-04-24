@@ -51,4 +51,17 @@ var assuntos = [
             {url:'https://github.com/n1trux/awesome-sysadmin', descricao:''},
         ]
     },
+    {
+        titulo: 'Tools ferramentas Devs',
+        listaLinks:[
+            {url:'https://free-for.dev', descricao:'lista ferramentas para devs'},
+            {url:'https://www.statuspile.com/', descricao:'pagina de status sobre servico'},
+            {url:'https://formspree.io/', descricao:'criar paginas de formularios'},
+            {url:'https://www.staticforms.xyz/', descricao:'criar paginas de formularios'},
+            {url:'https://readme.com/', descricao:'pagina de documentacao'},
+            {url:'https://cloudconvert.com/', descricao:'converte qualquer coisa'},
+            {url:'https://www.photopea.com/', descricao:'photoshop no navegador'},
+            {url:'https://www.gitpod.io/', descricao:'ambiente devenvolvimento online'},
+        ]
+    },
 ]
