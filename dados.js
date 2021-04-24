@@ -43,6 +43,10 @@ var assuntos = [
             {url:'http://jsbin.com/', descricao:'tool-code'},
             {url:'https://www.cssportal.com/online-css-editor/', descricao:'tool-code'},
             {url:'https://codepen.io/fontawesome/pen/RwPYvrG', descricao:'tool-code'},
+            {url:'https://unsplash.com/s/photos/free', descricao:'tool-img'},
+            {url:'https://picsum.photos/', descricao:'tool-img'},
+            {url:'https://www.photoshopweb.net/', descricao:'tool-img-editor'},
+
 
         ]
     },
