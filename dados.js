@@ -61,7 +61,7 @@ var assuntos = [
             {url:'https://readme.com/', descricao:'pagina de documentacao'},
             {url:'https://cloudconvert.com/', descricao:'converte qualquer coisa'},
             {url:'https://www.photopea.com/', descricao:'photoshop no navegador'},
-            {url:'https://www.gitpod.io/', descricao:'ambiente devenvolvimento online'},
+            {url:'https://www.gitpod.io/', descricao:'ambiente devenvolvimento onlinee'},
         ]
     },
 ]
