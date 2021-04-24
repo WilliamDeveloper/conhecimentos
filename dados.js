@@ -127,4 +127,12 @@ var assuntos = [
             {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVHRW8ho-pBjMUeyeCr99hfh', descricao:'Curso de PHP MVC'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - BANCO DADOS para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RILJ_7WZz_pV6eDfMxmjlJ', descricao:'Funções Oracle ( Aprenda PL/SQL)'},
+            {url:'https://www.youtube.com/playlist?list=PL7E27A95750BB1C8B', descricao:'PLSQL Basico'},
+            {url:'https://www.youtube.com/playlist?list=PLMaqczuL07LlmZva7iRS8DjyMYg2tptIk', descricao:'Curso Oracle'},
+        ]
+    },
 ]
