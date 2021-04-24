@@ -147,4 +147,12 @@ var assuntos = [
             {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78', descricao:'HTML5 & CSS3 na Prática'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - CSS para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGjLmjwfRc0Q9TA5U-PCWp4', descricao:'Curso de CSS Flexbox'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGJxKF3ShplF8nMuuxldlEk', descricao:'Curso de Materialize CSS'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG', descricao:'Curso de CSS3'},
+        ]
+    },
 ]
