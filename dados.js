@@ -31,6 +31,9 @@ var assuntos = [
         listaLinks:[
             {url:'https://www.screentogif.com/', descricao:'Criar Gif'},
             {url:'https://app.prntscr.com/en/index.html', descricao:'Printscreen'},
+            {url:'https://laragon.org/', descricao:'server laragon'},
+            {url:'https://www.apachefriends.org/pt_br/index.html', descricao:'server xampp'},
+            {url:'https://usbwebserver.yura.mk.ua/', descricao:'server usbwebserver'},
         ]
     },
     {
