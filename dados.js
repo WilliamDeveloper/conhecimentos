@@ -34,6 +34,12 @@ var assuntos = [
         ]
     },
     {
+        titulo: 'Escavando a Web',
+        listaLinks:[
+            {url:'https://web.archive.org/', descricao:'arquivo cache da web'},
+        ]
+    },
+    {
         titulo: 'Tools Online',
         listaLinks:[
             {url:'https://css-tricks.com/', descricao:'tool-css'},
