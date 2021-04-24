@@ -45,10 +45,10 @@ var assuntos = [
     {
         titulo: 'Alternativas Opensource',
         listaLinks:[
-            {url:'https://opensource.builders/', descricao:'https://opensource.builders/'},
-            {url:'https://alternativeto.net/', descricao:'https://alternativeto.net/'},
-            {url:'https://github.com/awesome-selfhosted/awesome-selfhosted', descricao:'https://github.com/awesome-selfhosted/awesome-selfhosted'},
-            {url:'https://github.com/n1trux/awesome-sysadmin', descricao:'https://github.com/n1trux/awesome-sysadmin'},
+            {url:'https://opensource.builders/', descricao:''},
+            {url:'https://alternativeto.net/', descricao:''},
+            {url:'https://github.com/awesome-selfhosted/awesome-selfhosted', descricao:''},
+            {url:'https://github.com/n1trux/awesome-sysadmin', descricao:''},
         ]
     },
 ]
