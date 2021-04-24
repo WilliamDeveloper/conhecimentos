@@ -64,4 +64,13 @@ var assuntos = [
             {url:'https://www.gitpod.io/', descricao:'ambiente devenvolvimento onlinee'},
         ]
     },
+    {
+        titulo: 'Bug Bounty',
+        listaLinks:[
+            {url:'https://www.facebook.com/whitehat/researcher-settings', descricao:''},
+            {url:'https://www.facebook.com/whitehat/thanks', descricao:''},
+            {url:'https://www.blackhat.com/html/archives.html', descricao:''},
+            {url:'https://media.defcon.org', descricao:''},
+        ]
+    },
 ]
