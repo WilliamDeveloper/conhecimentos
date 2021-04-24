@@ -89,6 +89,13 @@ var assuntos = [
             {url:'https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH', descricao:'Curso de Python 3 - Mundo 3: Estruturas Compostas'},
             {url:'https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe', descricao:'Aprender PYTHON'},
             {url:'https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE', descricao:'Curso de Python - Módulo Tkinter'},
+            {url:'https://www.youtube.com/watch?v=c43-mTD-8XM&list=PLesCEcYj003QiX5JaM24ytHrHiOJknwog', descricao:'Curso de Python - Módulo SQLite'},
+            {url:'https://www.youtube.com/watch?v=j94IGZmwtYI&list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj', descricao:'Curso de Python'},
+            {url:'https://www.youtube.com/watch?v=E0YU3d4Vvxs&list=PLesCEcYj003QeYKOo6NyjmHub4QKue63g', descricao:'Curso de Android'},
+            {url:'https://www.youtube.com/watch?v=-x-Le_podxo&list=PL51430F6C54953B73', descricao:'Lógica de Programação Usando Python - Curso Completo'},
+            {url:'https://www.youtube.com/watch?v=PHHXksljGNA&list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B', descricao:'Curso Selenium com Python'},
+            {url:'https://www.youtube.com/watch?v=RLVbB91A5-8&list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7', descricao:'Python Orientado a Objetos - Python POO'},
+            {url:'Programación orientada a objetos con PYTHON (completo) 2020', descricao:'https://www.youtube.com/watch?v=AqjTfmPitTQ&list=PLg9145ptuAigw5pV_DRznXdOsX19dorDs'},
         ]
     },
 ]
