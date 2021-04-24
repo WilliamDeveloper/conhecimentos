@@ -54,6 +54,7 @@ var assuntos = [
             {url:'https://mobaxterm.mobatek.net/', descricao:'mobaxterm'},
             {url:'https://code.visualstudio.com/', descricao:'visualstudio code'},
             {url:'https://obsproject.com/pt-br/download', descricao:'gravar video - obs studio'},
+            {url:'https://www.videolan.org/vlc/index.pt_BR.html', descricao:'player de video'},
         ]
     },
     {
