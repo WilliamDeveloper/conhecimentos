@@ -36,7 +36,7 @@ var assuntos = [
     {
         titulo: 'Escavando a Web',
         listaLinks:[
-            {url:'https://web.archive.org/', descricao:'arquivo cache da web'},
+            {url:'https://web.archive.org/', descricao:'arquivo cache da web.'},
         ]
     },
     {
