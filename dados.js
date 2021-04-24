@@ -24,6 +24,7 @@ var assuntos = [
         titulo: 'Markdown',
         listaLinks:[
             {url:'https://pt.wikipedia.org/wiki/Markdown', descricao:''},
+            {url:'https://typora.io/', descricao:'editor Markdown'},
         ]
     },
     {
