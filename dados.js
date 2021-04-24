@@ -71,4 +71,14 @@ var assuntos = [
             {url:'https://media.defcon.org/', descricao:''},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - Algoritmos e Logica para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV', descricao:'Curso de Lógica de Programação'},
+            {url:'https://www.youtube.com/playlist?list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o', descricao:'Lógica de Programação'},
+            {url:'https://www.youtube.com/watch?v=6OIADpFImtc&list=PLJ4lbwalqv3Eaiay2pCeU_QU6vb-Hz989', descricao:'Portugol Studio'},
+            {url:'https://www.youtube.com/playlist?list=PLWinCsaFzrrE_vgJZUbnfdydPrlzkVgha', descricao:'Portugol Studio - Dominando a Lógica de Programação'},
+            {url:'https://www.youtube.com/playlist?list=PLWinCsaFzrrEjo5QqWNRNVJnZNNjIrU3w', descricao:'Portugol Studio - Exercícios Resolvidos'},
+        ]
+    },
 ]
