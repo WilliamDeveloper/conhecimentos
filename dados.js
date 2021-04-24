@@ -42,4 +42,13 @@ var assuntos = [
             {url:'javascript:navigator.geolocation.getCurrentPosition(function(){});', descricao:'script geolocation pelo navegador com javascript'},
         ]
     },
+    {
+        titulo: 'Alternativas Opensource',
+        listaLinks:[
+            {url:'https://opensource.builders/', descricao:'https://opensource.builders/'},
+            {url:'https://alternativeto.net/', descricao:'https://alternativeto.net/'},
+            {url:'https://github.com/awesome-selfhosted/awesome-selfhosted', descricao:'https://github.com/awesome-selfhosted/awesome-selfhosted'},
+            {url:'https://github.com/n1trux/awesome-sysadmin', descricao:'https://github.com/n1trux/awesome-sysadmin'},
+        ]
+    },
 ]

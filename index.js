@@ -31,7 +31,7 @@ $(document).ready(function () {
                 let linkUrl = link.url
                 let linkDescricao = link.descricao
 
-                let templateA = `<a class="badge badge-primary" href="${linkUrl}" >${linkDescricao}</a><br>`
+                let templateA = `<a class="badge badge-primary" href="${linkUrl}" >${linkDescricao} - [${linkUrl}]</a><br>`
                 htmlString += templateA
 
             }
