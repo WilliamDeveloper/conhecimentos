@@ -53,6 +53,7 @@ var assuntos = [
             {url:'https://www.soapui.org/downloads/soapui/', descricao:'soapui'},
             {url:'https://mobaxterm.mobatek.net/', descricao:'mobaxterm'},
             {url:'https://code.visualstudio.com/', descricao:'visualstudio code'},
+            {url:'https://obsproject.com/pt-br/download', descricao:'gravar video - obs studio'},
         ]
     },
     {
