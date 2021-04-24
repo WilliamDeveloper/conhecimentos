@@ -36,6 +36,7 @@ var assuntos = [
             {url:'https://usbwebserver.yura.mk.ua/', descricao:'server usbwebserver 8'},
             {url:'https://anydesk.com/pt/downloads/windows', descricao:'acesso remoto - anydesk'},
             {url:'https://www.teamviewer.com/pt-br/', descricao:'acesso remoto - teamviewer'},
+            {url:'https://notepad-plus-plus.org/downloads/', descricao:'editor texto - notepad++'},
         ]
     },
     {
