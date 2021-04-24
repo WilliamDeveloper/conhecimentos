@@ -2,7 +2,17 @@ var dados = [
     {
         titulo: 'Google Uteis',
         listaLinks:[
-            {link:'', descricao:''}
+            {linkUrl:'#', linkDescricao:'a'},
+            {linkUrl:'#', linkDescricao:'b'},
+            {linkUrl:'#', linkDescricao:'c'},
+        ]
+    },
+    {
+        titulo: 'Google Uteis2',
+        listaLinks:[
+            {linkUrl:'#', linkDescricao:'a'},
+            {linkUrl:'#', linkDescricao:'b'},
+            {linkUrl:'#', linkDescricao:'c'},
         ]
     }
 ]
@@ -29,13 +39,40 @@ var dados = [
 $(document).ready(function () {
     console.log('documento carregadoo')
 
-    function montarPagina(parametros) {
-        let elemento = document.querySelector('.principal')
+    function htmlToElement(htmlStr) {
+        var template = document.createElement('template');
+        htmlStr = htmlStr.trim(); // Never return a text node of whitespace as the result
+        template.innerHTML = htmlStr;
+        return template.content;
+    }
 
-        let titulo = parametros[0].titulo
-        let link = parametros[0].listaLinks[0]
-        console.log('titulo', titulo, link)
-        elemento.appendChild()
+    var html="<li>text and html</li><br>";
+    var e=htmlToElement(html);
+    console.log(e)
+
+    function montarPagina(parametros) {
+        let elementoPrincipal = document.querySelector('.principal')
+
+        for (let i = 0; i < parametros.length; i++) {
+            let htmlString = ''
+            let sessao = parametros[i]
+            let titulo = sessao.titulo
+            let templateH2 = `<h2>${titulo}</h2>`
+            htmlString += templateH2
+
+            for (let j = 0; j < sessao.listaLinks.length; j++) {
+                let link = sessao.listaLinks[j]
+                let linkUrl = link.linkUrl
+                let linkDescricao = link.linkDescricao
+
+                let templateA = `<a class="badge badge-primary" href="${linkUrl}" >${linkDescricao}</a>`
+                htmlString += templateA
+
+            }
+
+            elementoPrincipal.appendChild(htmlToElement(htmlString))
+        }
+
     }
     montarPagina(dados)
 })
