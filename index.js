@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    console.log('documento carregado')
+    console.log('documento carregadoo')
 })
