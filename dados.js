@@ -81,4 +81,14 @@ var assuntos = [
             {url:'https://www.youtube.com/playlist?list=PLWinCsaFzrrEjo5QqWNRNVJnZNNjIrU3w', descricao:'Portugol Studio - Exercícios Resolvidos'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - Python para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6', descricao:'Curso de Python 3 - Mundo 1: Fundamentos'},
+            {url:'https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye', descricao:'Curso de Python 3 - Mundo 2: Estruturas de Controle'},
+            {url:'https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH', descricao:'Curso de Python 3 - Mundo 3: Estruturas Compostas'},
+            {url:'https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe', descricao:'Aprender PYTHON'},
+            {url:'https://www.youtube.com/watch?v=kSQDp20eeqE&list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE', descricao:'Curso de Python - Módulo Tkinter'},
+        ]
+    },
 ]
