@@ -8,14 +8,14 @@ var assuntos = [
         ]
     },
     {
-        titulo: '==REDE==',
+        titulo: 'REDE',
         listaLinks:[
             {url:'https://www.charlesproxy.com/', descricao:'monitoramento rede charles proxy 4.2.8'},
 
         ]
     },
     {
-        titulo: '==Metadata==',
+        titulo: 'Metadata',
         listaLinks:[
             {url:'https://www.elevenpaths.com/labstools/foca/index.html', descricao:'foca pesquisa e baixa arquivos de um site para explorar os metadados'},
             {url:'https://exiftool.org/', descricao:'ler metadata do arquivo'},
@@ -50,7 +50,7 @@ $(document).ready(function () {
             let titulo = sessao.titulo
             let templateH2 = `
                 <hr>
-                <h2>${titulo}</h2>
+                <h2>[==${titulo}==]</h2>
                 <hr>
             `
             htmlString += templateH2
