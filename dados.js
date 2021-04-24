@@ -27,6 +27,34 @@ var assuntos = [
         ]
     },
     {
+        titulo: 'Tools Uteis',
+        listaLinks:[
+            {url:'https://www.screentogif.com/', descricao:'Criar Gif'},
+            {url:'https://app.prntscr.com/en/index.html', descricao:'Printscreen'},
+        ]
+    },
+    {
+        titulo: 'Tools Online',
+        listaLinks:[
+            {url:'https://css-tricks.com/', descricao:'tool-css'},
+            {url:'https://www.cssportal.com/online-css-editor/', descricao:'tool-css'},
+            {url:'https://www.colorzilla.com/gradient-editor/', descricao:'tool-css'},
+            {url:'https://jsfiddle.net/', descricao:'tool-code'},
+            {url:'http://jsbin.com/', descricao:'tool-code'},
+            {url:'https://www.cssportal.com/online-css-editor/', descricao:'tool-code'},
+            {url:'https://codepen.io/fontawesome/pen/RwPYvrG', descricao:'tool-code'},
+
+        ]
+    },
+    {
+        titulo: 'Utilitarios Web',
+        listaLinks:[
+            {url:'https://caniuse.com/', descricao:'tool-browser'},
+            {url:'https://fontawesome.com/icons?d=gallery&p=1', descricao:'font-css'},
+        ]
+    },
+
+    {
         titulo: 'info Navegador',
         listaLinks:[
             {url:'https://www.navegg.com/politica-de-privacidade/seu-perfil/', descricao:'informacao sobre quem ta usando o navegador'},
