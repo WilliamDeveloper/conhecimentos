@@ -105,4 +105,15 @@ var assuntos = [
             {url:'https://www.youtube.com/watch?v=uFMUdv1W1p4&list=PLwXQLZ3FdTVF9Y0RbsuN54XYP7D0dZIlR', descricao:'Curso de Javascript'},
         ]
     },
+    {
+        titulo: 'Youtube Playlist - Java para iniciantes',
+        listaLinks:[
+            {url:'https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR', descricao:'Curso de Java para Iniciantes - Grátis, Completo'},
+            {url:'https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY', descricao:'Curso de POO Java (Programação Orientada a Objetos)'},
+            {url:'https://www.youtube.com/playlist?list=PLesCEcYj003Rfzs39Y4Bs_chpkE276-gD', descricao:'Curso de Java'},
+            {url:'https://www.youtube.com/watch?v=ZjPotaffGks&list=PLesCEcYj003RzkQBaNOOl7zwlIGOfeo1y', descricao:'Java Orientado a Objetos'},
+            {url:'https://www.youtube.com/watch?v=6Co585pjrkw&list=PLesCEcYj003QX6LckjuyANpYpxulv5-39', descricao:'Exercicios de Java'},
+            {url:'https://www.youtube.com/watch?v=q84ncDh4ln0&list=PLesCEcYj003SbwnNhQ9eyF7IjPlEK0uVg', descricao:'JAVA 8 - Lambda'},
+        ]
+    },
 ]
