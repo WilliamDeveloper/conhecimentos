@@ -82,6 +82,7 @@ var assuntos = [
             {url:'https://unsplash.com/s/photos/free', descricao:'tool-img'},
             {url:'https://picsum.photos/', descricao:'tool-img'},
             {url:'https://www.photoshopweb.net/', descricao:'tool-img-editor'},
+            {url:'https://specificity.keegan.st', descricao:'testar especificidade de css'},
 
 
         ]
