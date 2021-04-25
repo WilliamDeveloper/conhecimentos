@@ -83,6 +83,9 @@ var assuntos = [
             {url:'https://picsum.photos/', descricao:'tool-img'},
             {url:'https://www.photoshopweb.net/', descricao:'tool-img-editor'},
             {url:'https://specificity.keegan.st', descricao:'testar especificidade de css'},
+            {url:'https://www.w3schools.com/colors/colors_picker.asp', descricao:'color picker'},
+            {url:'https://coolors.co', descricao:'color picker'},
+            {url:'https://paletton.com', descricao:'paleta de cor'},
 
 
         ]
